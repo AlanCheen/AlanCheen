@@ -2,7 +2,9 @@
 
 Android/JavaScript/React
 
-内推阿里 请加微信：chuanzhangcxyfy
+奶爸/海贼迷/王者永恒钻石
+
+阿里内推请加微信：chuanzhangcxyfy
 
 <!--
 **AlanCheen/AlanCheen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
