@@ -6,6 +6,8 @@ Android/JavaScript/React
 
 阿里内推请加微信：chuanzhangcxyfy
 
+[![](https://github-readme-stats.vercel.app/api?username=AlanCheen)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **AlanCheen/AlanCheen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
