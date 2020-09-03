@@ -1,3 +1,8 @@
+
+
+[![程序亦非猿's github stats](https://github-readme-stats.wasabeef.vercel.app/api?username=AlanCheen&show_icons=true&line_height=21&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.wasabeef.vercel.app/api/top-langs/?username=AlanCheen&show_icons=true&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Hi there 👋
 
 Android/JavaScript/React
@@ -6,10 +11,8 @@ Android/JavaScript/React
 
 阿里内推请加微信：chuanzhangcxyfy
 
-![](https://github-readme-stats.vercel.app/api?username=AlanCheen&show_icons=true&theme=radical)
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlanCheen&layout=compact&theme=Gradient)
+[![程序亦非猿's github stats](https://github-readme-stats.wasabeef.vercel.app/api?username=AlanCheen&show_icons=true&line_height=21&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.wasabeef.vercel.app/api/top-langs/?username=AlanCheen&show_icons=true&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **AlanCheen/AlanCheen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
