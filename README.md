@@ -12,7 +12,7 @@
 阿里内推请加微信：chuanzhangcxyfy 
 
 <a href="https://github.com/AlanCheen">
-    <img src="https://komarev.com/ghpvc/?username=AlanCheen&color=ff0000&label=个基佬来过" />
+    <img src="https://komarev.com/ghpvc/?username=AlanCheen&color=ff0000&label=爱过：" />
 </a> 
 
 
