@@ -12,7 +12,7 @@
 阿里内推请加微信：chuanzhangcxyfy 
 
 <a href="yifeiyuan.me">
-    <img src="https://img.shields.io/badge/%20My%20Blog-yifeiyuan.me-brightgreen" />
+    <img src="https://img.shields.io/badge/%20My%20Blog-yifeiyuan.me-brightgreen?logo=bloglovin" />
 </a> 
 
 <a href="https://github.com/AlanCheen">
