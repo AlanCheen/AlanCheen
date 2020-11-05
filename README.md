@@ -11,6 +11,10 @@
 
 阿里内推请加微信：chuanzhangcxyfy 
 
+<a href="https://github.com/AlanCheen">
+    <img src="https://komarev.com/ghpvc/?username=AlanCheen&color=ff0000&label=个基佬来过" />
+</a> 
+
 
 <!--
 **AlanCheen/AlanCheen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
