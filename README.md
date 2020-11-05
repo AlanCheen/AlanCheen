@@ -11,7 +11,7 @@
 
 阿里内推请加微信：chuanzhangcxyfy 
 
-<a href="yifeiyuan.me">
+<a href="http://yifeiyuan.me">
     <img src="https://img.shields.io/badge/%20My%20Blog-yifeiyuan.me-brightgreen?logo=bloglovin" />
 </a> 
 
