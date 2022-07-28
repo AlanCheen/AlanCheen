@@ -1,10 +1,8 @@
 ### Hi there 👋
 
-杭州阿里程序员，会一点 Android/JavaScript/React/小程序。
+Androider/奶爸/海贼迷/王者永恒钻石玩家，会一点点 JavaScript/React/小程序。
 
-奶爸/海贼迷/王者农药永恒钻石
-
-阿里内推请加微信：chuanzhangcxyfy 
+在杭州阿里，需要内推的话可加微信：chuanzhangcxyfy ，注明来意。
 
 - 🔭 I’m currently working on Flap v3
 
