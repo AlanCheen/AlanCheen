@@ -30,6 +30,8 @@ Androider/奶爸/海贼迷/王者永恒钻石玩家，会一点点 JavaScript/Re
 </a> 
 </div>
 
+<img src="https://user-images.githubusercontent.com/6982439/184307371-b897f3af-167f-4aca-b526-4b7039f86515.JPG" width=282px height=361.5px />
+
 <!--
 **AlanCheen/AlanCheen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
