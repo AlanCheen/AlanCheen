@@ -2,7 +2,7 @@
 
 Androider/奶爸/海贼迷/王者永恒钻石玩家，会一点点 JavaScript/React/小程序。
 
-在杭州阿里，需要内推的话可加微信：chuanzhangcxyfy ，注明来意。
+在杭州阿里，需要内推的话可加微信: iamcxyfy ，注明来意。
 
 - 🔭 I’m currently working on Flap v3
 
