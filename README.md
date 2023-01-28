@@ -20,10 +20,12 @@ Androider/奶爸/海贼迷/王者永恒钻石玩家，会一点点 JavaScript/Re
 </a>
 </div>
 
+<!--
 <div>
 <a href="http://yifeiyuan.me" target="_blank">
     <img src="https://img.shields.io/badge/%20My%20Blog-yifeiyuan.me-brightgreen?logo=bloglovin" />
 </a> 
+-->
 
 <a href="https://github.com/AlanCheen">
     <img src="https://komarev.com/ghpvc/?username=AlanCheen&color=brightgreen&style=flat&label=Profile Views：" />
